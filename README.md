@@ -36,7 +36,7 @@ To play the game using the existing logon, simply log in and go to view games, c
 - **Initial Application Design**: Developed the initial design concept for the application, ensuring a user-friendly and engaging interface.
 - **Java Implementation**: Implemented the application design using Java, focusing on creating a seamless user experience.
 - **Project Framework**: Developed a framework for the project to run on, facilitating efficient collaboration among team members.
-- **Flash Card Game Development**: Designed and developed the flash card game, allowing users to create and play custom quizzes.
+- **Flash Card Game Development**: Designed and developed the flash card game, allowing users to play custom quizzes.
 - **Game Completion Screen**: Created the game completion screen, including a confetti visual effect to celebrate users' achievements.
 - **Rewards Progress Ring**: Developed a rewards progress ring feature to visually track users' progress and encourage continued play.
 - **Unlockable Theme Rewards**: Created unlockable theme rewards to enhance user engagement and provide a sense of accomplishment.
@@ -49,7 +49,7 @@ Note: The files included in this GitHub repository are only those I personally w
 
 - **Java**
 - **Figma**: Used for initial design mockups and prototyping.
-- **Photoshop**: Utilized for creating visual assets and refining UI elements.
+- **Photoshop**: Utilized for creating and refining visual assets.
 - **Stable Diffusion**: Employed for generating the Quiz Whiz main menu image.
 
 ## Project Management
@@ -58,5 +58,5 @@ Note: The files included in this GitHub repository are only those I personally w
 - **Collaboration Tools**: Used GitHub for version control and collaborative development, ensuring efficient code management and team collaboration.
 
 
-### Credits
+## Credits
 I extend my gratitude to the Code Crusaders team for their exemplary efforts and dedication, which ensured the timely and successful completion of this project, surpassing all expectations.
